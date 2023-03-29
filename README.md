@@ -1,2 +1,2 @@
 # Image_caption_generator
-Python, CNN, LSTM, 
+Python, CNN, LSTM, Keras, Tensorflow
